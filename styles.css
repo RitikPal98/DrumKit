@@ -82,7 +82,7 @@ footer {
 }
 @media only screen and (max-width: 768px) {
   .drum{width: 140px;
-        height: 120px;
+        height: 130px;
         font-size: 0px;}
 h1{font-size:3rem; }
 
