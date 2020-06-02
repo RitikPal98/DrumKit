@@ -81,9 +81,9 @@ footer {
   background-color: white;
 }
 @media only screen and (max-width: 768px) {
-  .drum{width: 100px;
-        height: 100px;
+  .drum{width: 120px;
+        height: 1100px;
         font-size: 0px;}
-.h1{font-size:3rem; }
+h1{font-size:3rem; }
 
 }
