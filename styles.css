@@ -5,7 +5,7 @@ body {
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: red;
   font-family: "Arvo", cursive;
   text-shadow: 4px 0 green;
 
@@ -80,7 +80,7 @@ footer {
   margin: 10px;
   background-color: white;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (min-width: 768px) {
   .drum{
          font-size: 0px;}
 
